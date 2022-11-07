@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 10px;
+}
+
+.h-50{
+    height: 50vh;
+}
+
+.flexbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.size {
+    font-size: 1.5rem;
+}
